@@ -1,0 +1,8 @@
+To run this project, you need the following dependencies:
+Python 3.x
+Kivy
+KivyMD
+BeautifulSoup4
+Requests
+SQLite3 (comes with Python by default)
+Email.mime (for sending emails)
